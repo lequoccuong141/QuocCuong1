@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuocCuong1/static/css/main.a71c9e8a.css",
+    "main.js": "/QuocCuong1/static/js/main.c490ae7c.js",
+    "index.html": "/QuocCuong1/index.html",
+    "main.a71c9e8a.css.map": "/QuocCuong1/static/css/main.a71c9e8a.css.map",
+    "main.c490ae7c.js.map": "/QuocCuong1/static/js/main.c490ae7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a71c9e8a.css",
+    "static/js/main.c490ae7c.js"
+  ]
+}
